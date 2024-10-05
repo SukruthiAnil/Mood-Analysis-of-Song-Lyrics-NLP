@@ -31,7 +31,7 @@ Lemmatization
 
 Feature Extraction: TF-IDF, Count Vectorizer, Word Embeddings.
 
-**Models Used:- **
+**Models Used:-**
 
 Random Forest
 
@@ -41,11 +41,11 @@ Naive Bayes
 
 XGBoost
 
-**Results:- **
+**Results:-**
 
 The Random Forest model using Sentence BERT vectorizer achieved the highest accuracy of 94.2%. This demonstrates the effectiveness of using advanced NLP techniques for mood analysis of song lyrics.
 
-**Key Features:- **
+**Key Features:-**
   **Sentiment Analysis:** Classifying lyrics as "Happy" or "Sad".
   **Manual Labeling:** Songs were manually labeled to create the target classes.
   **Online Web App:** A simple interface for mood prediction based on song lyrics.
